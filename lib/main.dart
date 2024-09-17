@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
               ),
                             SizedBox(
                 height: 10,
-              ),[]
+              ),
               Text(
                 'أمين التريكي',
                 style: TextStyle(
